@@ -1,19 +1,16 @@
-# 💰 Poupa Play - Fintech Educacional
+# Poupa Play - Fintech 💰
 
-Este projeto compreende a entrega da interface de **Solicitação de Uso do Dinheiro** para usuários dependentes, desenvolvida para a Fintech Poupa Play.
+Este é o repositório da tela "Solicitar Uso do Dinheiro" do aplicativo Poupa Play. Desenvolvi essa interface para a atividade da disciplina de Front-End.
 
-## 🎯 Objetivo do Componente
-Permitir que crianças e jovens enviem pedidos estruturados de uso de saldo para aprovação de seus pais ou responsáveis, estimulando o diálogo e a tomada de decisões financeiras conscientes.
+A ideia dessa tela é que os dependentes (crianças/jovens) possam pedir aos pais a liberação de um valor do saldo para comprar alguma coisa (como lanche, brinquedo, etc.), promovendo a educação financeira.
 
-## 🛠️ Especificações Técnicas
-* **HTML5:** Estruturação semântica da interface.
-* **CSS3:** Customizações de tipografia nativa e estilização de gradientes.
-* **Tailwind CSS:** Framework utilitário focado em agilidade de desenvolvimento e responsividade multi-dispositivos (Mobile First).
-* **Git/GitHub:** Versionamento de código aplicando branches e revisões via Pull Request (GitHub Flow).
+## Tecnologias usadas no projeto
+- HTML e CSS (os estilos personalizados estão na pasta css)
+- Tailwind CSS (utilizado para fazer o layout e deixar a tela responsiva para celular)
 
-## 🚀 Execução
-1. Faça o clone do repositório no seu ambiente local.
-2. Abra o arquivo `index.html` em qualquer navegador web moderno. Não é necessário instalar dependências adicionais para visualizar a tela.
+## Como abrir
+É só baixar os arquivos aqui do GitHub e abrir o `index.html` direto no navegador. Não precisa instalar nada!
 
 ---
-**Desenvolvido por:** Gabriela Suzana (RM 568881)
+**Aluna:** Gabriela Suzana de Oliveira Silva
+**RM:** 568881
