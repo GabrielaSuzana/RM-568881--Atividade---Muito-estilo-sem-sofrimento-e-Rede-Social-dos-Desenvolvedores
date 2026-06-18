@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI+Emoji&display=swap');
+
+body {
+    background: radial-gradient(circle at center, #20063B 0%, #10031E 100%);
+    font-family: 'Segoe UI Emoji', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+.fonte-inter {
+    font-family: 'Inter', sans-serif;
+}
+
+.text-roxo {
+    color: #20063B;
+}
+
+.sombra-texto {
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.texto-gradiente {
+    background: linear-gradient(90deg, #62C370 0%, #CC3363 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.card-saldo {
+    border-radius: 31px;
+    border: 2px solid rgba(204, 51, 99, 0.50);
+    background: #FFF;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.card-form {
+    border-radius: 24px;
+    background: #FFF;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25) inset;
+}
+
+.banner-verde {
+    background: linear-gradient(90deg, #C2F9BB 0.48%, #9AD1D4 100%);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+}
+
+.banner-rosa {
+    background: linear-gradient(90deg, #CC3363 0.48%, #9AD1D4 100%);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+}
+
+.btn-enviar {
+    background: linear-gradient(90deg, #62C370 0%, #9AD1D4 86.54%);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-voltar {
+    background: linear-gradient(90deg, #20063B 0%, #CC3363 100%);
+    border-radius: 8px;
+}
