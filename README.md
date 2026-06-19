@@ -11,6 +11,10 @@ A ideia dessa tela é que os dependentes (crianças/jovens) possam pedir aos pai
 ## Como abrir
 É só baixar os arquivos aqui do GitHub e abrir o `index.html` direto no navegador. Não precisa instalar nada!
 
+## 🎨 Protótipo no Figma
+A interface foi construída com base em um protótipo de alta fidelidade desenhado previamente.
+[Clique aqui para visualizar o desenho original no Figma](https://www.figma.com/design/8JIC39Zf5Y59aJUOXn8tSk/CAP-07---QUEM-V%C3%8A-INTERFACE--V%C3%8A-CORA%C3%87%C3%83O?node-id=11-37&m=dev)
+
 ---
 **Aluna:** Gabriela Suzana de Oliveira Silva
 **RM:** 568881
